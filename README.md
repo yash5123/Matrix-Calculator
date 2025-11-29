@@ -1,4 +1,4 @@
-# 🔢 NumPy Matrix Calculator (Streamlit App)
+# 🔢 NumPy Matrix Calculator
 
 A simple, interactive tool to explore **matrix operations** using Python and NumPy.  
 You can type your own matrices or use built-in sample sets and see instant results.
